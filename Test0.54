@@ -1,0 +1,17 @@
+Trigger Data
+{{$params.ref}}string
+{{$params.commits}}array
+{{$params.commits[n].id}}string
+{{$params.commits[n].message}}string
+{{$params.commits[n].url}}string
+{{$params.head_commit}}object
+{{$params.head_commit.id}}string
+{{$params.head_commit.added}}array
+{{$params.head_commit.removed}}array
+{{$params.head_commit.modified}}array
+{{$params.repository}}object
+{{$params.repository.name}}string
+{{$params.repository.full_name}}string
+{{$params.pusher}}object
+{{$params.pusher.name}}string
+{{$params.pusher.email}}string
