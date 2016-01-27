@@ -9,3 +9,7 @@ New Task
 {{$params.can_create_projects}}	undefined
 {{$params.url}}	undefined
 {{$params.app_url}}	undefined
+{{$params.trashed}}	FALSE
+{{$params.can_create_projects}}	undefined
+{{$params.url}}	undefined
+{{$params.app_url}}	undefined
