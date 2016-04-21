@@ -19,3 +19,4 @@ Trigger Data
 {{params.actor.uuid}}string
 {{params.actor.username}}string
 {{params.actor.type}}string
+
