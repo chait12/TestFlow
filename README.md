@@ -25,3 +25,4 @@
 {{$a2.alerts.stats.trashed_mentions}}
 {{$a2.alerts[0].undefined}}
 {{$a2.alerts[0].undefined}}{{$a2.alerts[0].undefined}}
+READ.ME
