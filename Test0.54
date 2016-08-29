@@ -15,4 +15,3 @@ Trigger Data
 {{$params.pusher}}object
 {{$params.pusher.name}}string
 {{$params.pusher.email}}string
-test
