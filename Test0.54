@@ -17,3 +17,4 @@ Trigger Data
 {{$params.pusher.email}}string
 {{$params.pusher.email}}string
 {{$params.pusher.email}}string
+{{$params.pusher.email}}string
