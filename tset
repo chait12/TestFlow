@@ -1,0 +1,22 @@
+fsdfkgkjk
+fdgsdfghsdsd
+Trigger Data
+{{$params.repository}}object
+{{params.repository.uuid}}string
+{{params.repository.type}}string
+{{params.repository.name}}string
+{{params.repository.full_name}}string
+{{params.repository.is_private}}boolean
+{{params.repository.scm}}string
+{{$params.owner}}object
+{{params.owner.display_name}}string
+{{params.owner.uuid}}string
+{{params.owner.username}}string
+{{params.owner.type}}string
+{{$params.push}}object
+{{$params.actor}}object
+{{params.actor.display_name}}string
+{{params.actor.uuid}}string
+{{params.actor.username}}string
+{{params.actor.type}}string
+
